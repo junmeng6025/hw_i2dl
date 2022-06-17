@@ -1,5 +1,19 @@
 # Introduction to Deep Learning (IN2346)
 # Technical University Munich - SS 2022
+  
+## Exercise Content  
+### Exercise 01 - Test the system  
+### Exercise 02 - Math Recap (non-programm)
+### Exercise 03 - Dataset and Dataloader  
+### Exercise 04 - Solver and Linear Regression  
+### Exercise 05 - Neural Networks  
+### Exercise 06 - Hyperparameter tuning  
+### Exercise 07 - Intro to PyTorch  
+### Exercise 08 - Autoencoder  
+### Exercise 09 - Convolutional Neural Network  
+### Exercise 10 - Semantic Segmentation  
+### Exercise 11 - Recurrent Neural Network  
+
 
 ## 1. Python Setup
 
