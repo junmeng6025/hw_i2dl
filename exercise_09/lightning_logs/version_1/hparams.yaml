@@ -1,0 +1,4 @@
+batch_size: 16
+lr: 0.001
+num_layers: 3
+workers: 4
