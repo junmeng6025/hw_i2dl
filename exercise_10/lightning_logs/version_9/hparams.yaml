@@ -1,0 +1,9 @@
+batch_size: 32
+filters:
+- 1280
+- 128
+- 128
+- 64
+- 64
+lr: 0.001
+workers: 4
